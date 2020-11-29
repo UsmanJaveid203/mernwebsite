@@ -1,0 +1,8 @@
+nodemon
+mongoose
+node-localstorage
+jsonwebtoken
+bcrypt
+npm install mongoose-paginate
+npm install multer => for upload image
+npm install express-session =>authontication
